@@ -5,15 +5,27 @@
             "username":"Admin",
             "email":"admin@gmail.com",
             "password":"masai",
-            "borrowedBooks":[]
+            "borrowedBooks":[],
+            "login":"false"
         },
         {   
             "id":1,
             "username":"Krishna",
             "email":"kc@gmail.com",
             "password":"krishna123",
-            "borrowedBooks":[]
+            "borrowedBooks":[],
+            "login":"false"
+
+        },
+        {   
+            "id":2,
+            "username":"Prateek",
+            "email":"prateek@gmail.com",
+            "password":"prateek123",
+            "borrowedBooks":[],
+            "login":"false"
         }
+
 
     ],
     "products":[
