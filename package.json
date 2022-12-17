@@ -1,0 +1,15 @@
+{
+  "name": "js-evaluation-server",
+  "version": "1.0.0",
+  "description": "js-evaluation-server-oncyclic",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "krishna",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
