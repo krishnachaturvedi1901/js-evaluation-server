@@ -1,7 +1,7 @@
 {
-  "name": "js-evaluation-server",
+  "name": "evaluation-server",
   "version": "1.0.0",
-  "description": "js-evaluation-server-oncyclic",
+  "description": "evaluation-server-oncyclic",
   "main": "server.js",
   "scripts": {
     "start": "node server.js" 

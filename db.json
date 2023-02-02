@@ -1,60 +1,14 @@
 {
     "users":[
         {   
-            "id":0,
-            "username":"Admin",
-            "email":"admin@gmail.com",
-            "password":"masai",
-            "borrowedBooks":[],
-            "login":"false"
-        },
-        {   
             "id":1,
-            "username":"Krishna",
-            "email":"kc@gmail.com",
-            "password":"krishna123",
-            "borrowedBooks":[],
-            "login":"false"
-
-        },
-        {   
-            "id":2,
-            "username":"Prateek",
-            "email":"prateek@gmail.com",
-            "password":"prateek123",
-            "borrowedBooks":[],
-            "login":"false"
+            "name":"Prateek Verma",
+            "age":"30",
+            "gender":"Male",
+            "country":"India",
+            "profession":"Student",
+            "image":"https://i.pravatar.cc/300"
         }
-
-
-    ],
-    "products":[
-        {
-          "id":1,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-		  "genre": "fiction",
-		  "edition": "2021",
-		  "publisher": "Bloomsbury",
-		  "cost": 1299,
-		  "borrowed": false,
-          "available":4,
-          "borrowedQuantity":1
-        },
-        {
-            "id":2,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Rich Dad poor dad",
-            "author": "Robert kiyosaki",
-            "genre": "Personal finance",
-            "edition": "2020",
-            "publisher": "XYZ Publisher",
-            "cost": 199,
-            "borrowed": false,
-            "available":8,
-            "borrowedQuantity":2
-          }
   
     ]
 }
