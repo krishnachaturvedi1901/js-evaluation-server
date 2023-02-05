@@ -1,7 +1,152 @@
 {
     "users":[
+        {
+            "id": 1,
+            "name": "Trstram Ikin",
+            "image": "https://i.pravatar.cc/300",
+            "age": 64,
+            "gender": "Male",
+            "profession": "Student",
+            "country": "Nepal"
+        }, {
+            "id": 2,
+            "name": "Fawnia Stoneham",
+            "image": "https://i.pravatar.cc/300",
+            "age": 75,
+            "gender": "Female",
+            "profession": "Student",
+            "country": "Srilanka"
+        }, {
+            "id": 3,
+            "name": "Myrah Bakewell",
+            "image": "https://i.pravatar.cc/300",
+            "age": 54,
+            "gender": "Female",
+            "profession": "Student",
+            "country": "UAE"
+        }, {
+            "id": 4,
+            "name": "Bethanne Davidove",
+            "image": "https://i.pravatar.cc/300",
+            "age": 68,
+            "gender": "Female",
+            "profession": "Student",
+            "country": "UAE"
+        }, {
+            "id": 5,
+            "name": "Berk Echelle",
+            "image": "https://i.pravatar.cc/300",
+            "age": 74,
+            "gender": "Male",
+            "profession": "Employee",
+            "country": "Nepal"
+        }, {
+            "id": 6,
+            "name": "Silvio Dominick",
+            "image": "https://i.pravatar.cc/300",
+            "age": 75,
+            "gender": "Male",
+            "profession": "Employee",
+            "country": "Nepal"
+        }, {
+            "id": 7,
+            "name": "Hally Stratton",
+            "image": "https://i.pravatar.cc/300",
+            "age": 35,
+            "gender": "Non-binary",
+            "profession": "Student",
+            "country": "Srilanka"
+        }, {
+            "id": 8,
+            "name": "Culver Wellum",
+            "image": "https://i.pravatar.cc/300",
+            "age": 62,
+            "gender": "Genderqueer",
+            "profession": "Employee",
+            "country": "Srilanka"
+        }, {
+            "id": 9,
+            "name": "Aigneis Fallows",
+            "image": "https://i.pravatar.cc/300",
+            "age": 67,
+            "gender": "Female",
+            "profession": "Employee",
+            "country": "Pakistan"
+        }, {
+            "id": 10,
+            "name": "Lauren Wreight",
+            "image": "https://i.pravatar.cc/300",
+            "age": 51,
+            "gender": "Male",
+            "profession": "Student",
+            "country": "Pakistan"
+        }, {
+            "id": 11,
+            "name": "Mirilla Fairhall",
+            "image": "https://i.pravatar.cc/300",
+            "age": 68,
+            "gender": "Female",
+            "profession": "Employee",
+            "country": "India"
+        }, {
+            "id": 12,
+            "name": "Gustie Maior",
+            "image": "https://i.pravatar.cc/300",
+            "age": 38,
+            "gender": "Female",
+            "profession": "Employee",
+            "country": "Pakistan"
+        }, {
+            "id": 13,
+            "name": "Nicolais Arthars",
+            "image": "https://i.pravatar.cc/300",
+            "age": 71,
+            "gender": "Male",
+            "profession": "Student",
+            "country": "Nepal"
+        }, {
+            "id": 14,
+            "name": "Arie Smooth",
+            "image": "https://i.pravatar.cc/300",
+            "age": 24,
+            "gender": "Male",
+            "profession": "Employee",
+            "country": "UAE"
+        }, {
+            "id": 15,
+            "name": "Jonis Sanderson",
+            "image": "https://i.pravatar.cc/300",
+            "age": 35,
+            "gender": "Female",
+            "profession": "Employee",
+            "country": "UAE"
+        }, {
+            "id": 16,
+            "name": "Abagail Muckeen",
+            "image": "https://i.pravatar.cc/300",
+            "age": 23,
+            "gender": "Female",
+            "profession": "Employee",
+            "country": "Nepal"
+        }, {
+            "id": 17,
+            "name": "Florentia Cullotey",
+            "image": "https://i.pravatar.cc/300",
+            "age": 65,
+            "gender": "Female",
+            "profession": "Student",
+            "country": "Srilanka"
+        }, {
+            "id": 18,
+            "name": "Faith Sliman",
+            "image": "https://i.pravatar.cc/300",
+            "age": 31,
+            "gender": "Female",
+            "profession": "Student",
+            "country": "Srilanka"
+        },
         {   
-            "id":1,
+            "id":19,
             "name":"Prateek Verma",
             "age":"30",
             "gender":"Male",
@@ -9,6 +154,7 @@
             "profession":"Student",
             "image":"https://i.pravatar.cc/300"
         }
+
   
     ]
 }
